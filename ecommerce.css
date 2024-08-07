@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    /*border: 1px solid rgb(29, 29, 29);*/
+}
+.nav-brand{
+    width: 10%;
+}
+.navbar{
+    background-color: #ff4081;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+/* home */
+.bgimg{
+    background-image: url(https://img.freepik.com/free-photo/composition-tropical-fruits-ice-cream-cones_23-2148145125.jpg?t=st=1722062272~exp=1722065872~hmac=dcf3476d2e7b5e80387e57cb8b7fdaabb78da6bca281ebcb039d50b83a66f70e&w=1800);
+   width:100vw;
+   height: 70vh;
+   background-position: center;
+   background-size: cover;
+}
+.hhead{
+    color: white;
+    margin-top: 2%;
+}
+.hbtn{
+    width: 20%;
+    font-size: 50%;
+    font-weight: bold;
+}
+/* about */
+.apara{
+    font-size: 25px;
+    color: #e90d57;
+}
+.d-block{
+    aspect-ratio: 3/2;
+    width: 100%;;
+}
+.card-title{
+    color: green;
+
+}
+.card-text{
+    color:#f50057;
+}
+.space div{
+    border:10px solid white;
+}
+/* payment */
+.input-group-text{
+    background-color: #f50057;
+    color: white;
+    font-weight: bold;
+  
+    font-size: 20px;
+}
+/* footer */
+.fbgimg{
+    background-color: black;
+}
+.fhead{
+    color: white;
+    text-decoration: underline solid #f50057;
+
+}
+.ffour h6{
+    color: #fff;
+
+}
+.ficons{
+    text-align: center;
+    padding:1%;
+
+}
+.ficons i{
+    color: #eadd67;
+    font-size: 35px;
+    padding: 1.5%;
+}
+.ficons i:hover{
+    color: #e90d57;
+}
